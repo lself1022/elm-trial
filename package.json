@@ -1,0 +1,15 @@
+{
+  "name": "elm-loop",
+  "version": "1.0.0",
+  "description": "Elm frontend for Loop Accounts",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "npm": "^6.13.1"
+  }
+}
